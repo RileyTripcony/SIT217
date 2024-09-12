@@ -205,3 +205,4 @@ book1 = PhysicalBook(book_id="B001", title="The Great Gatsby", author="F. Scott 
 staff.add_book(book1)
 member = library.register_member(name="John Doe", contact_info="john@example.com")
 member.loan_book(book1)
+#Ahmed Changes
